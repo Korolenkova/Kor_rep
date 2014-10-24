@@ -8,10 +8,10 @@ int main ()
     cout<<"Enter number 2:";
     int m;
     cin>>m;
-    int s,f;
+    int s,p;
     s=n+m;
     cout<<"Summ: "<<s<<endl;
-    f=n*m;
-    cout<<"Proizvedenie: "<<f;
+    p=n*m;
+    cout<<"Proizvedenie: "<<p;
 
 }
