@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Uchebnaya programma
 int main ()
 {
     cout<<"Enter number 1: ";
@@ -7,9 +8,10 @@ int main ()
     cout<<"Enter number 2:";
     int m;
     cin>>m;
-    int s,k;
+    int s,f;
     s=n+m;
     cout<<"Summ: "<<s<<endl;
-    k=n-m;
-    cout<<"Razn: "<<k<<endl;
+    f=n*m;
+    cout<<"Proizvedenie: "<<f;
+
 }
