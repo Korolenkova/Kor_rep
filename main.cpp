@@ -8,14 +8,11 @@ int main ()
     cout<<"Enter number 2:";
     int m;
     cin>>m;
-    int s,f;
-    int s,p;
+    int s,f,p;
     s=n+m;
     cout<<"Summ: "<<s<<endl;
     f=n/m;
     p=n*m;
-    cout<<"Proizvedenie: "<<f;
+    cout<<"Delenie: "<<f<<'\n';
     cout<<"Proizvedenie: "<<p;
-
-
 }
